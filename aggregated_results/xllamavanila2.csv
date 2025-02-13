@@ -1,0 +1,7 @@
+,experiment,target,lang,translator,model,tw,type,f1,support,soubor,tweet,red
+5,"{'typ': 'r', 'dataset': 'ua', 'jazyk': 'cs', 'prekladac_do_aj': 'deepl', 'model': 'llama2', 'red': 'no', 'tweet': 'no'}",ua,cs,deepl,llama2,,all,38.5,410,r_ua_cs_deepl_llama2_vanila.csv,no,no
+3,"{'typ': 'r', 'dataset': 'ru', 'jazyk': 'cs', 'prekladac_do_aj': 'deepl', 'model': 'llama2', 'red': 'no', 'tweet': 'no'}",ru,cs,deepl,llama2,,all,40.2,431,r_ru_cs_deepl_llama2_vanila.csv,no,no
+4,"{'typ': 'r', 'dataset': 'ua', 'jazyk': 'hu', 'prekladac_do_aj': 'deepl', 'model': 'llama2', 'red': 'no', 'tweet': 'no'}",ua,hu,deepl,llama2,,all,41.7,157,r_ua_hu_deepl_llama2_vanila.csv,no,no
+6,"{'typ': 'r', 'dataset': 'ru', 'jazyk': 'hu', 'prekladac_do_aj': 'deepl', 'model': 'llama2', 'red': 'no', 'tweet': 'no'}",ru,hu,deepl,llama2,,all,53.9,139,r_ru_hu_deepl_llama2_vanila.csv,no,no
+1,"{'typ': 'r', 'dataset': 'ua', 'jazyk': 'pl', 'prekladac_do_aj': 'deepl', 'model': 'llama2', 'red': 'no', 'tweet': 'no'}",ua,pl,deepl,llama2,,all,33.7,160,r_ua_pl_deepl_llama2_vanila.csv,no,no
+2,"{'typ': 'r', 'dataset': 'ru', 'jazyk': 'pl', 'prekladac_do_aj': 'deepl', 'model': 'llama2', 'red': 'no', 'tweet': 'no'}",ru,pl,deepl,llama2,,all,34.8,143,r_ru_pl_deepl_llama2_vanila.csv,no,no
